@@ -1,0 +1,12 @@
+{
+  "env": "mesh_gateway",
+  "version": "2.0.0",
+  "path_versioned": "dist/mesh_gateway/mesh_gateway_v2.0.0.bin",
+  "path_latest": "dist/mesh_gateway/mesh_gateway_latest.bin",
+  "sha256": {
+    "versioned": "b05531ea2883b79a1644cdc281b80ac34f08550446c24a2726b5cd5ab8ed295d",
+    "latest": "b05531ea2883b79a1644cdc281b80ac34f08550446c24a2726b5cd5ab8ed295d"
+  },
+  "built_at": "2025-10-07 05:51:00",
+  "size_bytes": 824608
+}

@@ -1,0 +1,12 @@
+{
+  "env": "sender_node_5",
+  "version": "2.0.0",
+  "path_versioned": "dist/sender_node_5/sender_node_5_v2.0.0.bin",
+  "path_latest": "dist/sender_node_5/sender_node_5_latest.bin",
+  "sha256": {
+    "versioned": "eb0421c3b1a3b0e8ce1019aa7f3adc171d3d5776e71c98b8bf077b929e56cc07",
+    "latest": "eb0421c3b1a3b0e8ce1019aa7f3adc171d3d5776e71c98b8bf077b929e56cc07"
+  },
+  "built_at": "2025-10-07 05:53:30",
+  "size_bytes": 875232
+}

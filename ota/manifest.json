@@ -1,0 +1,40 @@
+﻿{
+    "version":  "2.1.1",
+    "date":  "2025-10-09",
+    "assets":  {
+                   "wifi_gateway":  "https://raw.githubusercontent.com/ChatpetchDatesatarn/EarthQuake_OTA/main/ota/wifi_gateway_v2.1.1.bin",
+                   "mesh_gateway":  "https://raw.githubusercontent.com/ChatpetchDatesatarn/EarthQuake_OTA/main/ota/mesh_gateway_v2.1.1.bin",
+                   "sender_node_1":  "https://raw.githubusercontent.com/ChatpetchDatesatarn/EarthQuake_OTA/main/ota/sender_node_1_v2.1.1.bin",
+                   "sender_node_2":  "https://raw.githubusercontent.com/ChatpetchDatesatarn/EarthQuake_OTA/main/ota/sender_node_2_v2.1.1.bin",
+                   "sender_node_3":  "https://raw.githubusercontent.com/ChatpetchDatesatarn/EarthQuake_OTA/main/ota/sender_node_3_v2.1.1.bin",
+                   "sender_node_4":  "https://raw.githubusercontent.com/ChatpetchDatesatarn/EarthQuake_OTA/main/ota/sender_node_4_v2.1.1.bin",
+                   "sender_node_5":  "https://raw.githubusercontent.com/ChatpetchDatesatarn/EarthQuake_OTA/main/ota/sender_node_5_v2.1.1.bin",
+                   "sender_node_6":  "https://raw.githubusercontent.com/ChatpetchDatesatarn/EarthQuake_OTA/main/ota/sender_node_6_v2.1.1.bin",
+                   "ROLE_WIFI_GATEWAY":  "https://raw.githubusercontent.com/ChatpetchDatesatarn/EarthQuake_OTA/main/ota/wifi_gateway_v2.1.1.bin",
+                   "ROLE_MESH_GATEWAY":  "https://raw.githubusercontent.com/ChatpetchDatesatarn/EarthQuake_OTA/main/ota/mesh_gateway_v2.1.1.bin",
+                   "ROLE_SENDER_NODE_1":  "https://raw.githubusercontent.com/ChatpetchDatesatarn/EarthQuake_OTA/main/ota/sender_node_1_v2.1.1.bin",
+                   "ROLE_SENDER_NODE_2":  "https://raw.githubusercontent.com/ChatpetchDatesatarn/EarthQuake_OTA/main/ota/sender_node_2_v2.1.1.bin",
+                   "ROLE_SENDER_NODE_3":  "https://raw.githubusercontent.com/ChatpetchDatesatarn/EarthQuake_OTA/main/ota/sender_node_3_v2.1.1.bin",
+                   "ROLE_SENDER_NODE_4":  "https://raw.githubusercontent.com/ChatpetchDatesatarn/EarthQuake_OTA/main/ota/sender_node_4_v2.1.1.bin",
+                   "ROLE_SENDER_NODE_5":  "https://raw.githubusercontent.com/ChatpetchDatesatarn/EarthQuake_OTA/main/ota/sender_node_5_v2.1.1.bin",
+                   "ROLE_SENDER_NODE_6":  "https://raw.githubusercontent.com/ChatpetchDatesatarn/EarthQuake_OTA/main/ota/sender_node_6_v2.1.1.bin"
+               },
+    "sha256":  {
+                   "mesh_gateway":  "b6a18fcfe27b88535d174b4d0578fe40887fd5b6e3c3fea6866ee818d3536bbb",
+                   "sender_node_1":  "0141a885a59a590e4be25fe094e204cb38e5c555a270e0a6fdb88a96a4f10e4d",
+                   "sender_node_2":  "5d5c0055e7c477a33323116258602622b59b053e9ea5d8d6816dcd9caaf10b7b",
+                   "sender_node_3":  "8694c4ded6729eedd70e5a9b7cbde4e1186bdd72ff2cd981ac9c76bc9804a705",
+                   "sender_node_4":  "f821a8cddf0c79df24074be4f87b55f2a07d75b41f781996e76a20985c2f6d71",
+                   "sender_node_5":  "eeb217d32110ac25d4d21ecfc0be2438a45cfbf5dd6965b1d73e17a58d3ee3f7",
+                   "sender_node_6":  "05ca53eb06bd98192c53bb1f1ef97dcdc89a5bf4d50ec89af03e8eecc42010ea",
+                   "wifi_gateway":  "9a5dcff1378599b3915388125c0606b53e2ad93c073a1e28a41ce70c54e3111e",
+                   "ROLE_WIFI_GATEWAY":  "9a5dcff1378599b3915388125c0606b53e2ad93c073a1e28a41ce70c54e3111e",
+                   "ROLE_MESH_GATEWAY":  "b6a18fcfe27b88535d174b4d0578fe40887fd5b6e3c3fea6866ee818d3536bbb",
+                   "ROLE_SENDER_NODE_1":  "0141a885a59a590e4be25fe094e204cb38e5c555a270e0a6fdb88a96a4f10e4d",
+                   "ROLE_SENDER_NODE_2":  "5d5c0055e7c477a33323116258602622b59b053e9ea5d8d6816dcd9caaf10b7b",
+                   "ROLE_SENDER_NODE_3":  "8694c4ded6729eedd70e5a9b7cbde4e1186bdd72ff2cd981ac9c76bc9804a705",
+                   "ROLE_SENDER_NODE_4":  "f821a8cddf0c79df24074be4f87b55f2a07d75b41f781996e76a20985c2f6d71",
+                   "ROLE_SENDER_NODE_5":  "eeb217d32110ac25d4d21ecfc0be2438a45cfbf5dd6965b1d73e17a58d3ee3f7",
+                   "ROLE_SENDER_NODE_6":  "05ca53eb06bd98192c53bb1f1ef97dcdc89a5bf4d50ec89af03e8eecc42010ea"
+               }
+}
