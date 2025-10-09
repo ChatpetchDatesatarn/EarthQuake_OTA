@@ -20,21 +20,21 @@
                    "ROLE_SENDER_NODE_6":  "https://raw.githubusercontent.com/ChatpetchDatesatarn/EarthQuake_OTA/main/ota/sender_node_6_v2.0.0.bin"
                },
     "sha256":  {
-                   "mesh_gateway":  "4bbf4834bee233893d81d45c928249c1493ebca3b56846855ff602844fcf339f",
-                   "sender_node_1":  "d277bb0b3eda2c6c151508c7719961b11f0fe05e209990128c6c9fd1b1b9c27b",
-                   "sender_node_2":  "dd6cc3642d0cc22a2a63e1044c77b7b1f08def384bbb21f896b8f3a5a4c79916",
-                   "sender_node_3":  "1b6791d51c5c59118f4a0e44501a5c930481290bd827bc4c984dc202c6878029",
-                   "sender_node_4":  "bcc557a53a1e3a6144109b71d7435545ee708f634468b9cc6a0e0b9a0726af8f",
-                   "sender_node_5":  "bb569882dffe6ec2ca83e93d112bea9a886d8f9f57d99a0512f134e0c75a23f8",
-                   "sender_node_6":  "aa9da3539eb754372e6dae19013c4721df7543a3b596d70f6f09c4518c41f497",
-                   "wifi_gateway":  "0fe040a291e51d5b5599d6ef7cf7bfd3cd9b6f5eb460dd7a1a8c170fe7a480c1",
-                   "ROLE_WIFI_GATEWAY":  "0fe040a291e51d5b5599d6ef7cf7bfd3cd9b6f5eb460dd7a1a8c170fe7a480c1",
-                   "ROLE_MESH_GATEWAY":  "4bbf4834bee233893d81d45c928249c1493ebca3b56846855ff602844fcf339f",
-                   "ROLE_SENDER_NODE_1":  "d277bb0b3eda2c6c151508c7719961b11f0fe05e209990128c6c9fd1b1b9c27b",
-                   "ROLE_SENDER_NODE_2":  "dd6cc3642d0cc22a2a63e1044c77b7b1f08def384bbb21f896b8f3a5a4c79916",
-                   "ROLE_SENDER_NODE_3":  "1b6791d51c5c59118f4a0e44501a5c930481290bd827bc4c984dc202c6878029",
-                   "ROLE_SENDER_NODE_4":  "bcc557a53a1e3a6144109b71d7435545ee708f634468b9cc6a0e0b9a0726af8f",
-                   "ROLE_SENDER_NODE_5":  "bb569882dffe6ec2ca83e93d112bea9a886d8f9f57d99a0512f134e0c75a23f8",
-                   "ROLE_SENDER_NODE_6":  "aa9da3539eb754372e6dae19013c4721df7543a3b596d70f6f09c4518c41f497"
+                   "mesh_gateway":  null,
+                   "sender_node_1":  null,
+                   "sender_node_2":  null,
+                   "sender_node_3":  null,
+                   "sender_node_4":  null,
+                   "sender_node_5":  null,
+                   "sender_node_6":  null,
+                   "wifi_gateway":  null,
+                   "ROLE_WIFI_GATEWAY":  null,
+                   "ROLE_MESH_GATEWAY":  null,
+                   "ROLE_SENDER_NODE_1":  null,
+                   "ROLE_SENDER_NODE_2":  null,
+                   "ROLE_SENDER_NODE_3":  null,
+                   "ROLE_SENDER_NODE_4":  null,
+                   "ROLE_SENDER_NODE_5":  null,
+                   "ROLE_SENDER_NODE_6":  null
                }
 }
